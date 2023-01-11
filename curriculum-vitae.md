@@ -2,7 +2,7 @@
 
 Worthing, West Sussex, United Kingdom
 
-[LinkedIn](http://uk.linkedin.com/in/guysymonds)
+E: sy*****@gmail.com | T: 077********* | W: [github.com/GuySymonds](https://github.com/GuySymonds) | L: [LinkedIn](http://uk.linkedin.com/in/guysymonds)
 
 ## Personal Statement
 
@@ -159,7 +159,7 @@ System Administrator and IT Hardware roles.
 * ISO 27001:2013 Lead Auditor
 * ISO 9001:2015 Lead Auditor
 
-## IT Qualifications
+### IT Qualifications
 
 * CompTIA A+ Hardware (220-221)
 * CompTIA A+ Software (220-222)
