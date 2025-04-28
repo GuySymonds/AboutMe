@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Personal Statement
+##  Personal Statement
 
 With a career spanning over two decades in technology and management, I bring a unique blend of expertise in software development, infrastructure design, and team leadership. My journey from an entry-level role at Bond International Software to Engineering Manager at Elekta demonstrates not just technical prowess but also a dedication to mentorship and innovation.
 
