@@ -67,33 +67,80 @@ Committed to fostering innovation, efficiency, and technical excellence.
 
 ---
 
-## Key Achievements
+## Employment History
 
-- **NewDay (2023–Present)**  
-  - Led a team of 6 developers across customer and data domains.
-  - Created Azure event driven data store on Azure CosmosDB, designed for high volume writes.
-  - Introduced in-transit encryption across services on top of TLS.
-  - Reduced software release time to production from 2 hours to 30 minutes through DevOps optimization.
-  - Built automated documentation pipeline syncing GitHub and Confluence.
-  - Refined testing strategies, reducing production defects by 60%.
+### **NewDay** — _Engineering Lead_  
+_January 2023 – Present_
 
-- **Elekta (2021–2023)**  
-  - Engineering Manager for 6 Scrum teams delivering critical medical software platforms.
-  - Introduced Backstage and ArgoCD for improved Devops processes and documentation.
-  - Defined and rolled out new development standards, improving delivery velocity.
-  - Achieved £1M annual cost savings without redundancies through tooling and process improvements.
+- Manage a team of 6 developers across core customer data domains.
+- Own end-to-end delivery quality: concept → deployment.
+- **Key Achievements:**
+  - TLS-based in-transit encryption system.
+  - Reduced release deployment time from 2 hours to 30 minutes.
+  - Mentored junior staff into high performers.
+  - Improved test coverage, reducing production defects by 60%.
 
-- **Southern Water (2020–2021)**  
-  - Designed and delivered cloud-native notification and authentication microservices.
-  - Led digital transformation initiatives reducing system downtime.
+---
 
-- **Honeywell (2019–2020)**  
-  - Built EasySearch, a natural language processor for HVAC data navigation.
-  - Implemented ML algorithms to enhance HVAC system efficiency.
+### **Elekta** — _Engineering Manager_  
+_January 2021 – January 2023_
 
-- **Adetiq Ltd (2016–2019)**  
-  - Introduced ISO 27001 and ISO 9001 compliance programs.
-  - Built Azure-hosted OCR platforms handling 12M+ documents for EU litigation support.
+- Led 6 Scrum teams to deliver mission-critical medical software.
+- **Key Achievements:**
+  - £1M monthly spend reduction without redundancies.
+  - Elevated code quality through standards redefinition.
+  - Fostered a culture shift from "big bang" to service-driven delivery.
+
+---
+
+### **Southern Water** — _Digital Lead (Interim)_  
+_August 2020 – January 2021_
+
+- Led improvements in system design and delivery resilience.
+- Delivered "Beachbuoy" project ensuring real-time beach cleanliness updates.
+- Designed Authentication and Notification microservices.
+
+---
+
+### **Honeywell** — _Principal Software Engineer_  
+_June 2019 – July 2020_
+
+- Built natural language processing systems for HVAC control.
+- Designed ML algorithms for HVAC data classification.
+- Created mobile onboarding applications using Xamarin.
+
+---
+
+### **Adetiq Ltd** — _Head of IT_  
+_May 2016 – June 2019_
+
+- Management Team member overseeing IT, security, and compliance.
+- Achieved ISO 27001 and ISO 9001 certification.
+- Built a machine learning application for OCR processing of 12M+ documents.
+
+---
+
+### **Portsmouth NHS Trust** — _IT Database Manager_  
+_November 2014 – May 2016_
+
+- Managed critical database infrastructure and backup solutions.
+- Delivered a new resilient SQL Server platform saving ~£1M.
+
+---
+
+### **Family Investments** — _Technical Architect_  
+_January 2013 – November 2014_
+
+- Designed internal scheduling and compliance management systems.
+- Modernised service desk support tools.
+
+---
+
+### **Bond International Software** — _Senior Infrastructure Specialist_  
+_2004 – December 2012_
+
+- Designed infrastructures for blue-chip clients (Hays, Citi, UBS).
+- Led internal and external penetration testing and cybersecurity reviews.
 
 ---
 
