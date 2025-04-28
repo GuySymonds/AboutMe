@@ -18,22 +18,22 @@ I have excelled in Agile and SCRUM paradigms, delivered measurable cost savings,
 
 ---
 
-## 🛠 Core Skills
+## Core Skills
 
-### 👥 Management
+### Management
 - Strong leadership and motivational skills
 - Agile / SCRUM / Kanban / Prince2 methodologies
 - Strategic planning based on trends and innovation
 - End-to-end project management across global teams
 
-### 💻 Programming
+### Programming
 - **.NET Core / C# / MAUI / Blazor / MVC / Xamarin**
 - **SOLID principles / MVVM / Clean Architecture**
 - **Azure Cloud**, Azure ML, AI/ML integrations
 - **Security-first development:** OAuth2, JWT, Certificate Authentication
 - JavaScript / HTML5 / XML / JSON / Bootstrap / jQuery
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 - Azure PaaS & IaaS | Pulumi / ARM Templates
 - DevOps Automation | Azure DevOps, GitHub Actions
 - Infrastructure Virtualisation (Hyper-V, VMware)
@@ -42,7 +42,7 @@ I have excelled in Agile and SCRUM paradigms, delivered measurable cost savings,
 
 ---
 
-## 🧑‍💻 Employment History
+## Employment History
 
 ### **NewDay** — _Engineering Lead_  
 📅 _January 2023 – Present_
@@ -119,7 +119,7 @@ I have excelled in Agile and SCRUM paradigms, delivered measurable cost savings,
 
 ---
 
-## 🎓 Education
+## Education
 
 ### 📚 Industry Qualifications
 - SAFe 5 Practitioner *(expired)*
