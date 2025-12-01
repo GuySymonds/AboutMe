@@ -2,81 +2,87 @@
 
 Worthing, West Sussex, United Kingdom
 
-E: sy*****@gmail.com | T: 077********* | W: [github.com/GuySymonds](https://github.com/GuySymonds) | L: [LinkedIn](http://uk.linkedin.com/in/guysymonds)
+E: s*******f@gmail.com | T: 077** ****** | W: [github.com/GuySymonds](https://github.com/GuySymonds) | L: [LinkedIn](http://uk.linkedin.com/in/guysymonds)
 
 ## Personal Statement
 
-I am an experienced and knowledgeable IT professional with nearly 30 years of IT and over 15 years of development experience, I am an exceptionally imaginative individual and can visualise abstract and complex ideas.  My personal ethos is "that there is nothing that cannot be achieved, it is just a matter of finding the right solution to the problem".
+Engineering Manager with deep experience leading multi-team delivery, modernising engineering practices, and solving complex organisational and technical problems. I specialise in taking unclear, failing or strategically important programmes and turning them into predictable, high-quality delivery streams.
 
-Learning is the cornerstone of my core values; I constantly explore and challenge the ideas and values I hold. Having Asperger’s, I spend a lot of time in understanding how I am perceived by those around me and value honest and direct feedback, I will always share my thoughts when invited to do so or if I identify a threat or vulnerability in the solutions I am working on.
+Strong at diagnosing systemic issues — skills gaps, architecture constraints, process inefficiencies, or misaligned expectations — and structuring teams, roadmaps, and engineering standards to fix them. I combine nearly 30 years of IT experience with a highly analytical, design-centric mindset to create simple, scalable solutions from complex challenges.
 
-For my next move I am looking for a role that will allow me to show off my ingenuity and design skills. I want to work for an organization that has inspirational leaders who stand by their values and do what they say they will do.
+I thrive in organisations that value clarity, accountability, and engineering excellence, and I’m looking for a senior leadership role where I can shape teams, influence strategy, and deliver measurable business impact.
 
 ## Core Skills
 
 Below are the core skills I hold.
 
-### Management
+### Leadership & Delivery
 
-* Certified SAFe 5 practitioner (expired)
-* Agile / SCRUM / Kanban / Prince Methodologies
-* Strong Leadership and Motivational Skills
-* Building Strategies based on past trends and future innovations
-* Directing and guiding team members to maximise skills and ability
-* Excellent attention to detail
-* Project Manage complex inter-department and global projects including software design roll outs and infrastructure rollouts
+* Building and leading multi-team engineering groups
+* Coaching engineers, improving team performance, and closing skill gaps
+* Delivery governance, execution frameworks, and roadmap shaping
+* Turning around failing projects and improving predictability
+* Incident/troubleshooting leadership and stakeholder alignment
+* Budget optimisation, cost reduction, and efficiency programmes
 
-### Programming
+### Technical Strategy
 
-* .Net Framework / .Net Standard / .Net Core (C#)
-* Entity Framework / EFCore / EF6
-* Xamarin / Blazor / MVC / ASP.NET / Razor / Web Forms / Win Forms / UWP / WPF
-* SOLID Principals / GRASP / MVVM / MVC
-* OAuth2 / Web Security / Cyber Security / JWT / Certificate Auth
-* Azure Cloud Technologies / Azure ML / Artificial Intelligence (AI) and Machine Learning (ML)
-* GIT / VSTS / Visual Studio / Azure DevOps / NuGet
-* Javascript / JS / HTML / XML / JSON / Bootstrap / JQuery / AJAX
-* VBScript / VBA
+* Architecture direction and systems design
+* Modern delivery pipelines, branching strategies, and DevEx improvements
+* Security-by-design thinking, vulnerability management, risk mitigation
+* Cloud, distributed systems, and data platform strategy
+* API design, integration patterns, event-driven systems
 
-### Technology
+### Engineering Practices
 
-* IIS / Apache / Kestrel / Web Security
-* Virtualisation Hyper-V, VMWare and OracleBox 
-* Windows and Linux Operating Systems
-* Microsoft SQL Server 2000 - 2019 / Postgres / MySQL
-* Cassandra / MongoDB / Elastic Search
-* Active Directory / Group Policy / DNS / DHCP, Security
-* Firewalls / Networking / Proxy Servers / Mass Storage Technologies
+* Agile/Scrum/Kanban coaching
+* Quality improvement, standards definition, and technical policy
+* Cross-team collaboration and dependency management
+* Architecture review boards, tech strategies, engineering playbooks
 
 ## Employment History
 
-### January 2021 – Present
+### January 2024 – Present
+
+**NewDay** – *Lead Engineer*
+
+Lead Engineer for NewDay’s Customer Information Service and Customer Domain, shaping architecture, delivery approach, and engineering standards for core customer data platforms.
+
+#### NewDay Highlights
+
+* Mentored engineers across multiple levels, including supporting an underperforming team member from PIP to promotion, and guiding others in architectural thinking and problem-solving.
+* Led the modernisation and stabilisation of CIS after migration from legacy systems, establishing clear ownership, stronger architecture, and predictable delivery practices.
+* Resolved long-standing customer-ID inconsistencies between legacy systems and CIS, restoring data integrity and unblocking customer migration workstreams.
+* Designed and delivered core customer capabilities — vulnerabilities, Know Your Customer, and third-party associations — using CQRS and event-driven patterns to ensure auditability, compliance, and system resilience.
+* Improved cross-team delivery flow by defining clearer API/contract boundaries, simplifying integration paths, and introducing more effective refinement and dependency planning.
+* Set architectural and engineering standards across the domain, strengthening design quality, consistency, and long-term maintainability.
+
+### January 2021 – January 2024
 
 **Elekta** – *Engineering Manager*
 
-Manage 6 Scrum teams delivering a technology platform for medical software. Working within an Agile structure
+Lead six Scrum teams responsible for delivering a core platform used across Elekta’s medical software product suite. The role required managing significant technical debt, delivery inconsistency, and budget pressures across distributed teams.
 
 #### Ekelta Highlights
 
-* Promoted to Engineering Manager from Tech Lead in a year.
-* Reduced the monthly spend by £1,000,000, as part of the resilience program, without making anyone redundant.
-* Redefined several standards improving the speed and quality of delivery.
-* Implemented new Branching strategy to Improve development processes.
-* Pushed forward an attitude of service level delivery away from the “big bang” delivery.
-* Simplified development tools to reduce complexity and save time and money on testing requirements and needs.
+* Reduced platform operating costs by £1m per month as part of the Resilience Programme without redundancies, reorganising infrastructure usage, team focus, and release planning.
+* Fixed major delivery inconsistency issues by redefining engineering standards and implementing a modern branching and release strategy — resulting in improved throughput and fewer regressions.
+* Shifted the organisation away from risky “big-bang” releases to incremental service-level delivery, improving predictability and reducing release-risk.
+* Simplified tooling and development workflows, cutting onboarding friction, reducing test complexity, and lowering overall cost of change.
+* Promoted from Tech Lead to Engineering Manager within a year due to delivery leadership and ability to turn around underperforming teams.
 
 ### August 2020 – January 2021
 
 **Southern Water** – *Digital Lead (Interim)*
 
-Heading up the digital team to help bring them together and improve their design practices.  Southern Water have had many issues with data loss over the last few years and needed help to get back on track with a stable and secure systems development.
+Brought in to stabilise digital engineering after years of instability, data loss incidents, and weak architectural controls.
 
 #### Southern Water Highlights
 
-* Managed an agile team to deploy the Beachbuoy project related to the cleanliness of local beaches and any potential spills.
-* Created several prototype Xamain Mobile applications as proof-of-concept work.
-* Presented new Authentication micro-service design to key stake holders and got approval to commence work on it.
-* Designed and built a notification micro-service for all customer communications.
+* Repaired a failing digital delivery pipeline and aligned the team around clearer engineering practices and standards.
+* Led delivery of the Beachbuoy project, a high-visibility public health service used to track beach water quality and spill events.
+* Designed an enterprise-grade authentication microservice, resolving long-standing security and identity gaps.
+* Built multiple mobile application prototypes to validate new service concepts and accelerate stakeholder sign-off.
 
 ### June 2019 – July 2020
 
@@ -97,17 +103,14 @@ Honeywell were investing in and building an online HVAC (Heating, Ventilation an
 
 **Adetiq Ltd** – *Head of IT*
 
-As the Head of IT I sat on the Management Team and reported to the Managing Director, I headed up a small but highly skilled team of 4. In my time at Adetiq I implemented both ISO 27001 and ISO 9001 system as well as gaining certification in May 2018.
-
-Adetiq specialise in process outsourcing and as such Adetiq rely heavily on the latest in AI, ML and automation.  I have had the responsibility to manage, design, implement and deliver all aspects of the development life cycle. My continuous improvement plans have reduced the quantity of known vulnerabilities in Adetiq by 90%.
+Owned IT strategy, delivery, and operations, leading a multidisciplinary engineering team and driving organisation-wide improvement.
 
 #### Adetiq Highlights
 
-* Part of the Management Team responsible for corporate strategy.
-* Gather requirements from clients and design a working system for their desired outcome.
-* Designed and built an ASP.NET core MVC API server with Razor client website and WPF client for offline timesheet entry and working hours regulations checks.  These checks were across multiple time zones with varying rules.
-* Built a Machine learning application to OCR (Optical Character Recognition) 12 million documents and identify pertinent documents for an EU class action.
-* Created a prototype mapping application to take data from one system and transform it into a format for a clients import process.
+* **Reduced known security vulnerabilities by 90% through policy**, automation, and disciplined engineering practices.
+* **Led ISO 27001 and ISO 9001 implementation**, achieving certification in 2018.
+* Built AI/ML solutions to automate large-scale document processing (12 million documents), creating new revenue opportunities.
+* Designed and delivered multiple enterprise systems used across global clients.
 
 ### November 2014 – May 2016
 
