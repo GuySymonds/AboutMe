@@ -101,4 +101,17 @@ Most of my work centres around:
 
 ---
 
+## 📄 CV & Experience
+
+My CV is structured as individual components in the [`cv-data/`](./cv-data/) folder. This makes it easy to generate tailored CVs for specific roles using AI tools.
+
+| Section | Contents |
+|---|---|
+| [`cv-data/profile/`](./cv-data/profile/) | Contact details and personal statement |
+| [`cv-data/skills/`](./cv-data/skills/) | Skills broken down by category |
+| [`cv-data/experience/`](./cv-data/experience/) | One file per role, dated and detailed |
+| [`cv-data/education/`](./cv-data/education/) | Qualifications, certifications, and academic history |
+
+---
+
 ⭐ Thanks for visiting my profile.
