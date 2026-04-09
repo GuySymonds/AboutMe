@@ -1,117 +1,57 @@
-# 👋 Hi, I'm Guy Symonds! 🚀
+# Hi, I'm Guy Symonds
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guysymonds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/GuySymonds)
 
-![👀 Profile Views](https://komarev.com/ghpvc/?username=GuySymonds&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/GuySymonds/GuySymonds)
-![Repo Size](https://img.shields.io/github/repo-size/GuySymonds/GuySymonds)
+Engineering Manager / Lead Engineer based in the UK.
 
----
+I work across engineering leadership, backend development, architecture, and delivery improvement. Most of my experience is in regulated or operationally critical environments where software needs to be clear, reliable, and maintainable.
 
-## 🧑‍💻 Summary
+## What I do
 
-💡 Engineering Manager and software developer based in the UK, with nearly **30 years of experience** across software engineering, architecture, delivery leadership, and platform modernisation.  
-🔧 Strong background in **C#**, **.NET**, **APIs**, **Azure**, **distributed systems**, **React**, **MAUI**, and engineering quality practices.  
-👔 Roles include Engineering Manager, Lead Engineer, Technical Lead, and Senior Software Engineer across regulated, enterprise, and product-focused environments.
+- lead teams and shape technical delivery
+- design APIs, services, and integration-heavy systems
+- improve engineering standards, quality, and predictability
+- modernise platforms and reduce operational complexity
+- use AI tools pragmatically to support planning, prototyping, and development
 
----
+## Current focus
 
-## 🌱 Current Focus
+- .NET and C# backend systems
+- Azure and distributed services
+- architecture and engineering standards
+- AI-assisted software delivery
+- side projects in apps, tools, and game concepts
 
-🤖 Using **AI tools** like GitHub Copilot and ChatGPT to improve planning, prototyping, code quality, and delivery  
-🏗️ Designing practical, scalable systems with clear architecture and maintainable code  
-☁️ Working across **Azure**, backend services, APIs, and engineering standards  
-🎮 Building side projects including app ideas and multiplayer game concepts
+## Tech
 
----
+### Languages
+[![Languages](https://skillicons.dev/icons?i=cs,ts,js,html,css,powershell)](https://skillicons.dev)
 
-## 🧰 Tech Stack
+### Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,cassandra)](https://skillicons.dev)
 
-### 📝 Languages
+### Tools & Platforms
+[![Tools & Platforms](https://skillicons.dev/icons?i=dotnet,react,docker,kubernetes,kafka,linux,ubuntu,azure,git,github,githubactions,visualstudio,vscode,vim)](https://skillicons.dev)
+## Areas I care about
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sql,powershell)
+- backend and API design
+- delivery quality and maintainability
+- technical leadership
+- observability and operational clarity
+- regulated and security-conscious systems
+- practical product and platform thinking
 
-### ⚙️ Tools & Frameworks
+## In this repo
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,docker,git,github,githubactions,visualstudio,vscode)
+This is my GitHub profile repo and public landing page.
 
-### ☁️ Cloud & Platform
+It also contains a structured CV source pack in [`cv-data/`](./cv-data/) that I use as reusable career content for future tooling.
 
-![My Skills](https://skillicons.dev/icons?i=azure)
+## Featured content
 
----
+- [`cv-data/experience/`](./cv-data/experience/) — role history and project context
+- [`cv-data/skills/`](./cv-data/skills/) — technical and leadership skill areas
+- [`cv-data/profile/`](./cv-data/profile/) — profile and summary content
 
-## 💡 What I Work On
-
-### ✨ Engineering, architecture, and delivery
-
-I enjoy taking unclear or messy technical problems and turning them into simple, reliable solutions.  
-Most of my work centres around:
-
-- building and improving backend systems
-- shaping architecture and engineering standards
-- leading teams through technical change
-- improving delivery, quality, and maintainability
-- solving real business problems with practical software
-
-
----
-
-## 💼 Experience
-
-**Engineering Manager / Lead Engineer / Software Developer**
-
-- 🤝 Led teams and supported delivery across complex technical programmes
-- 🏗️ Designed and delivered APIs, services, and platform components in enterprise environments
-- 📈 Improved engineering practices around quality, deployment, maintainability, and delivery flow
-- ☁️ Worked with cloud platforms, distributed systems, CI/CD pipelines, and operational tooling
-- 🔍 Strong focus on system clarity, technical standards, and long-term maintainability
-- 🧑‍🤝‍🧑 Comfortable working across product, engineering, architecture, and stakeholder collaboration
-- 🛡️ Delivered software in regulated and security-conscious environments where reliability matters
-
----
-
-## 🛠️ Skills
-
-- 💻 Backend and API development
-- 🏗️ Software architecture and system design
-- ☁️ Azure and cloud-based platforms
-- 🔄 Distributed systems and integration patterns
-- 🧪 Engineering quality, testing, and delivery improvement
-- 🤖 AI-assisted software development
-- 👥 Technical leadership and team development
-- 📋 Delivery planning, shaping, and technical decision-making
-- 🔐 Regulated, secure, and high-reliability software environments
-
----
-
-## 🚀 Interests
-
-- AI in software delivery
-- developer productivity
-- architecture and system design
-- backend engineering
-- cloud platforms
-- game and app development
-
----
-
-> “Simple systems are harder to design, but easier to trust.”
-
----
-
-## 📄 CV & Experience
-
-My CV is structured as individual components in the [`cv-data/`](./cv-data/) folder. This makes it easy to generate tailored CVs for specific roles using AI tools.
-
-| Section | Contents |
-|---|---|
-| [`cv-data/profile/`](./cv-data/profile/) | Contact details and personal statement |
-| [`cv-data/skills/`](./cv-data/skills/) | Skills broken down by category |
-| [`cv-data/experience/`](./cv-data/experience/) | One file per role, dated and detailed |
-| [`cv-data/education/`](./cv-data/education/) | Qualifications, certifications, and academic history |
-
----
-
-⭐ Thanks for visiting my profile.
+> Simple systems are harder to design, but easier to trust.

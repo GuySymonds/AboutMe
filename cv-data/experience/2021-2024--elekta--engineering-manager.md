@@ -6,26 +6,26 @@
 
 ## Overview
 
-Engineering Manager for Elekta's core platform, used across their medical software product suite. Elekta produces radiation therapy systems and oncology informatics software. The role required managing significant technical debt, delivery inconsistency, and budget pressures across distributed teams operating in a highly regulated environment.
+Engineering Manager for Elekta's shared core platform, used across a suite of regulated medical-software products supporting oncology and radiation-therapy workflows. The role required addressing technical debt, delivery inconsistency, release complexity, and budget pressure across distributed teams operating in a highly regulated environment.
 
 ## Responsibilities
 
-- Managing six Scrum teams delivering a shared core platform
+- Managing six to seven Scrum teams delivering a shared platform
 - Ownership of delivery quality, engineering standards, and release governance
 - Budget management and cost optimisation across the platform programme
-- Technical leadership across distributed and cross-functional teams
+- Technical leadership across distributed teams spanning the UK, Netherlands, USA, China, and India
 - Stakeholder management and programme-level reporting
-- Coaching team leads and engineers on delivery and technical practices
-- Managing the Resilience Programme to reduce infrastructure spend
+- Coaching team leads and engineers on delivery, accountability, and technical practice
+- Leading the Resilience Programme to reduce infrastructure spend and simplify platform operations
 
 ## Key Achievements
 
-- Reduced platform operating costs by £1m per month as part of the Resilience Programme — without redundancies — through reorganising infrastructure usage, team focus, and release planning.
-- Fixed major delivery inconsistency by redefining engineering standards and implementing a modern branching and release strategy, resulting in improved throughput and fewer regressions.
-- Shifted the organisation away from risky big-bang releases to incremental service-level delivery, improving predictability and reducing release risk.
-- Simplified tooling and development workflows, cutting onboarding friction, reducing test complexity, and lowering overall cost of change.
-- Elevated code quality through standards redefinition across teams.
-- Promoted from Tech Lead to Engineering Manager within a year due to delivery leadership and ability to turn around underperforming teams.
+- Reduced platform operating costs by approximately £1m per month through the Resilience Programme, combining infrastructure, release, and operating-model changes without redundancies.
+- Fixed major delivery inconsistency by redefining engineering standards and introducing a more effective branching and release strategy, improving throughput and reducing regression risk.
+- Shifted the organisation away from risky coordinated releases towards smaller, more manageable service-level delivery, improving predictability and reducing release overhead.
+- Simplified tooling and development workflows, reducing onboarding friction, test complexity, and overall cost of change.
+- Coached leads and engineers across multiple teams, helping improve technical decision-making, accountability, and delivery effectiveness.
+- Promoted from Tech Lead to Engineering Manager within a year due to delivery leadership and success in turning around underperforming teams.
 
 ## Technologies & Tools
 

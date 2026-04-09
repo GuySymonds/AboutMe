@@ -6,23 +6,23 @@
 
 ## Overview
 
-Part of the engineering team building an online HVAC (Heating, Ventilation and Air Conditioning) control system. Responsible for core design and proof-of-concept work on NLP and machine learning capabilities integrated into the platform.
+Part of the engineering team building an online HVAC (Heating, Ventilation and Air Conditioning) control system. Worked on core platform design and led proof-of-concept work exploring how NLP and machine learning could make complex building-control systems easier to interrogate and operate.
 
 ## Responsibilities
 
 - Software design and engineering for core platform components
 - Proof-of-concept design and build for NLP and ML capabilities
-- Peer review of developer work to ensure quality and standards
+- Peer review to improve quality and consistency across the team
 - Mobile application development for customer onboarding
-- Knowledge sharing and internal enablement
+- Internal knowledge sharing and technical enablement
 
 ## Key Achievements
 
-- Designed and built the proof of concept for EasySearch: a natural language processor for HVAC systems, enabling operators to interact with systems using plain language queries.
-- Designed and built a proof of concept for a Machine Learning algorithm to identify and categorise data for the EasySearch NLP experience.
+- Designed and built the proof of concept for EasySearch, a natural language interface for HVAC systems that enabled operators to query systems using plain-language requests.
+- Designed and built a machine-learning proof of concept to identify and categorise data for the EasySearch NLP experience.
 - Created a Xamarin mobile application for onboarding new customers using the Prism framework.
-- Ran a lunch and learn session for ~50 team members covering containers and container orchestration.
-- Provided peer review and technical guidance across the team.
+- Ran a lunch-and-learn session for approximately 50 team members covering containers and container orchestration.
+- Provided peer review and technical guidance across the team, supporting design quality and engineering standards.
 
 ## Technologies & Tools
 

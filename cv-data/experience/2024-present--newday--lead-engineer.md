@@ -6,7 +6,7 @@
 
 ## Overview
 
-Lead Engineer for NewDay's Customer Information Service (CIS) and Customer Domain, shaping architecture, delivery approach, and engineering standards for core customer data platforms. NewDay is one of the UK's largest credit card issuers, operating in a regulated financial services environment.
+Lead Engineer for NewDay's Customer Information Service (CIS) and Customer Domain, shaping architecture, delivery approach, and engineering standards for core customer-data platforms in a regulated financial-services environment. The role combines platform modernisation, migration support, integration design, and technical leadership across services that bridge legacy Fiserv capabilities and newer CIS-based customer services.
 
 ## Responsibilities
 
@@ -15,19 +15,20 @@ Lead Engineer for NewDay's Customer Information Service (CIS) and Customer Domai
 - Mentoring and developing engineers across multiple levels
 - Driving delivery quality from concept through to production
 - Managing cross-team dependencies, API contracts, and integration boundaries
-- Stakeholder engagement across product, engineering, and compliance
+- Stakeholder engagement across product, engineering, architecture, cyber, legal, and compliance functions
+- Helping shape how customer capabilities are delivered across multiple underlying systems of record
 
 ## Key Achievements
 
-- Mentored engineers across multiple levels, including supporting an underperforming team member from PIP to promotion, and developing others in architectural thinking and problem-solving.
-- Led the modernisation and stabilisation of CIS after migration from legacy systems — establishing clear ownership, stronger architecture boundaries, and predictable delivery practices.
-- Resolved long-standing customer ID inconsistencies between legacy systems and CIS, restoring data integrity and unblocking customer migration workstreams.
-- Designed and delivered core customer capabilities — vulnerabilities, Know Your Customer (KYC), and third-party associations — using CQRS and event-driven patterns to ensure auditability, compliance, and system resilience.
-- Improved cross-team delivery flow by defining clearer API/contract boundaries, simplifying integration paths, and introducing more effective refinement and dependency planning.
-- Set architectural and engineering standards across the domain, strengthening design quality, consistency, and long-term maintainability.
-- Built TLS-based in-transit encryption system.
-- Reduced release deployment time from 2 hours to 30 minutes through pipeline optimisation.
-- Improved test coverage, reducing production defects by 60%.
+- Led the modernisation and stabilisation of CIS after migration from legacy systems, establishing clearer ownership, stronger architectural boundaries, and more predictable delivery practices.
+- Took a leading role in shaping how Customer Domain abstracts multiple systems of record, ensuring consuming teams do not need to understand whether customer data originates from CIS or Fiserv.
+- Helped resolve customer identity, linking, and stub-record complexities created by the coexistence of legacy and new customer platforms, reducing operational risk in migration and customer-change workflows.
+- Designed and delivered core customer capabilities including vulnerabilities, KYC, and third-party / affiliate associations, using patterns that support auditability, compliance, and resilience.
+- Designed and delivered an encrypted payload API and certificate exchange capability to meet a contractual requirement for vulnerability-data exchange, coordinating architecture, cyber security, legal, DPO, product, and delivery stakeholders to secure sign-off in under a month.
+- Identified and resolved late-stage Cosmos DB indexing issues during migration work, reducing average RU consumption from roughly 60% to around 5% and improving platform cost efficiency.
+- Supported high-volume migration and customer-data change workstreams, including large-scale movements of associations, deceased markers, and gone-away records into the target estate.
+- Set architectural and engineering standards across the domain, improving consistency in API design, validation, error handling, and long-term maintainability.
+- Mentored engineers across multiple levels, including developing architectural thinking, problem solving, and delivery ownership.
 
 ## Technologies & Tools
 
