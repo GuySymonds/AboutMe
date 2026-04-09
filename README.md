@@ -26,6 +26,22 @@
 
 ---
 
+## 🧰 Tech Stack
+
+### 📝 Languages
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sql,powershell)
+
+### ⚙️ Tools & Frameworks
+
+![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,docker,git,github,githubactions,visualstudio,vscode)
+
+### ☁️ Cloud & Platform
+
+![My Skills](https://skillicons.dev/icons?i=azure)
+
+---
+
 ## 💡 What I Work On
 
 ### ✨ Engineering, architecture, and delivery
@@ -67,22 +83,6 @@ Most of my work centres around:
 - 👥 Technical leadership and team development
 - 📋 Delivery planning, shaping, and technical decision-making
 - 🔐 Regulated, secure, and high-reliability software environments
-
----
-
-## 🧰 Tech Stack
-
-### 📝 Languages
-
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,sql,powershell)
-
-### ⚙️ Tools & Frameworks
-
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,postgres,docker,git,github,githubactions,visualstudio,vscode)
-
-### ☁️ Cloud & Platform
-
-![My Skills](https://skillicons.dev/icons?i=azure)
 
 ---
 
