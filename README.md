@@ -9,11 +9,12 @@ My background spans backend development, software architecture, engineering lead
 
 ## What I do
 
-- lead teams and shape technical delivery
-- design APIs, services, and integration-heavy systems
-- improve engineering standards, quality, and predictability
-- modernise platforms and reduce operational complexity
-- use AI tools pragmatically to support planning, prototyping, and development
+- **Lead multi-team delivery** and own the technical roadmap.
+- **Architect resilient APIs** and high-scale, integration-heavy systems.
+- **Stabilize delivery streams** by embedding clarity and engineering excellence.
+- **Modernize legacy platforms** to strip out operational friction and cost.
+- **Deploy pragmatic AI** to accelerate planning, prototyping, and development.
+
 
 ## Current focus
 
