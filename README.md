@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guysymonds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/GuySymonds)
 
-Engineering Manager / Lead Engineer based in the UK.
+I’m based in the UK and interested in building clear, reliable technology that solves real problems.
 
-I work across engineering leadership, backend development, architecture, and delivery improvement. Most of my experience is in regulated or operationally critical environments where software needs to be clear, reliable, and maintainable.
+My background spans backend development, software architecture, engineering leadership, and delivery improvement, with most of my work in regulated or operationally critical environments. I’m particularly drawn to systems that need to be robust, maintainable, and easy to reason about, even when the domain itself is complex.
 
 ## What I do
 
