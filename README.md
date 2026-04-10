@@ -34,14 +34,6 @@ My background spans backend development, software architecture, engineering lead
 
 ### Tools & Platforms
 [![Tools & Platforms](https://skillicons.dev/icons?i=dotnet,react,docker,kubernetes,kafka,linux,ubuntu,azure,git,github,githubactions,visualstudio,vscode,vim)](https://skillicons.dev)
-## Areas I care about
-
-- backend and API design
-- delivery quality and maintainability
-- technical leadership
-- observability and operational clarity
-- regulated and security-conscious systems
-- practical product and platform thinking
 
 ## In this repo
 
